@@ -1,0 +1,9 @@
+[submodule "domain"]
+	path = domain
+	url = https://github.com/feh-wilinando/domineospring-livraria-domain
+[submodule "infra"]
+	path = infra
+	url = https://github.com/feh-wilinando/domineospring-livraria-infra
+[submodule "application"]
+	path = application
+	url = https://github.com/feh-wilinando/domineospring-livraria-application
